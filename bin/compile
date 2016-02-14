@@ -3,5 +3,5 @@
 
 # fail fast
 set -e
-/etc/init.d/tor start
+ls -la $HOME/
 
